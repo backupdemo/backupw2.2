@@ -1,0 +1,22 @@
+#object {
+    position: fixed;
+    left: 0;
+    bottom: 50%;
+    height: 30px;
+    width: 30px;
+}
+img{
+	height: 250px;	
+}
+#object2 {
+	position: fixed;
+	right: 20%;
+	bottom: 50%;
+	height: 30px;
+	width: 30px;
+}
+
+body {
+    height: 3000px;
+    background: black;
+}
